@@ -1,12 +1,12 @@
 {
-  "name": "gifted-md",
+  "name": "FAITH-MD",
   "version": "5.0.0",
-  "description": "I am Gifted-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
+  "description": "I am Faith-Md, a Simple WhatsApp Bot built with NodeJs to Enhance WhatsApp Communication experience",
   "website": "https://session.giftedtech.co.ke",
-  "dev_email": "mauricegift@gmail.com",
+  "dev_email": "humphreymbise75@gmail.com",
   "logo": "https://files.catbox.moe/52699c.jpg",
   "keywords": ["gifted-md"],
-  "repository": "https://github.com/mauricegift/gifted-md",
+  "repository": "https://github.com/ZEZETECH47/FAITH-MD",
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -28,7 +28,7 @@
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here ie 237xxxxx",
       "required": true,
-      "value": "237677224245"
+      "value": "255617657675"
     },
     "ANTI_DELETE": {
       "description": "Can be set to 'inboxonly' to recover for personal chats only, 'chatsonly' to recover for groups and personal chats only or 'true' to recover all chats and status updates. Default is 'false'. You can set up this later using .antidelete",
@@ -94,7 +94,7 @@
     "BOT_NAME": {
       "description": "You can edit this but maintain font style for uniformity. Use 'Fonts Type Keyboard' for styles.",
       "required": false,
-      "value": "𝐏𝐑𝐈𝐍𝐂𝐄 𝐌𝐃𝐗"
+      "value": "FAITH-MD"
     },
     "PREFIX": {
       "description": "Your Bot Prefix (default: .) You can put your own custom prefix",
