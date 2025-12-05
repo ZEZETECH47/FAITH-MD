@@ -18,10 +18,10 @@
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
   <p align="center">
-<a href="https://github.com/mauricegift"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-GIFTED TECH-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ZEZETECH47/FAITH-MD"><img title="GITHUB" src="https://img.shields.io/badge/GITHUB-ZEZE TECH-red.svg?style=for-the-badge&logo=github"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/mauricegift?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/mauricegift?label=Followers&style=social"></a>
+<a href="https://github.com/mauricegift?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/ZEZETECH47?label=Followers&style=social"></a>
 <a href="https://github.com/mauricegift/gifted-md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/mauricegift/gifted-md?&style=social"></a>
 <a href="https://github.com/mauricegift/gifted-md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/mauricegift/gifted-md?style=social"></a>
 <a href="https://github.com/mauricegift/gifted-md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/mauricegift/gifted-md?label=Watching&style=social"></a>
